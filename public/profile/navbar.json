@@ -6,7 +6,7 @@
     },
     "sections": [
         {
-            "title": "Home",
+            "title": "Inicio",
             "href": "/"
         },
         {
@@ -18,16 +18,16 @@
             "href": "/skills"
         },
         {
-            "title": "Education",
-            "href": "/education"
+            "title": "Educación",
+            "href": "/educacion"
         },
         {
-            "title": "Experience",
-            "href": "/experience"
+            "title": "Experiencia",
+            "href": "/experiencia"
         },
         {
-            "title": "Projects",
-            "href": "/projects"
+            "title": "Proyectos",
+            "href": "/proyectos"
         },
         {
             "title": "Resume",

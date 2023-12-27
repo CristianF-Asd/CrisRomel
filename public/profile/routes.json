@@ -3,27 +3,27 @@
         {
             "component": "About",
             "path": "/about",
-            "headerTitle": "About"
+            "headerTitle": "Acerca de Mi"
         },
         {
             "component": "Skills",
             "path": "/skills",
-            "headerTitle": "Skills"
+            "headerTitle": "Mis Skills"
         },
         {
             "component": "Education",
-            "path": "/education",
-            "headerTitle": "Education"
+            "path": "/educacion",
+            "headerTitle": "Educación"
         },
         {
             "component": "Experience",
-            "path": "/experience",
-            "headerTitle": "Experience"
+            "path": "/experiencia",
+            "headerTitle": "Experiencia"
         },
         {
             "component": "Projects",
-            "path": "/projects",
-            "headerTitle": "Projects"
+            "path": "/proyectos",
+            "headerTitle": "Proyectos"
         }
     ]
 }
