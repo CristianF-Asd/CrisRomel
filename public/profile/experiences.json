@@ -1,33 +1,36 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Encargado de TI, Analista de Sistemas y Paginas Web",
+            "subtitle": "RM Tesis",
+            "workType": "Part-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Creación de Paginas web mediante CMS Wordpress.",
+                "Análisis SEO, optimización y recopilación de datos de los sistemas web creados por la empresa.",
+                "Monitoreo y mantenimiento de los servidores y demas sistemas informáticos utilizados por la empresa."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "09/2022 – Presente"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
-            "workDescription": [
-                "Worked on abc."
-            ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
+            "title": "Programador FullStack",
+            "subtitle": "Snack \"Sanny\"",
             "workType": "Freelance",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Creación de aplicación para gestión de productos, ventas e inventario.",
+                "Aplicación hecha mediante Java bajo arquitectura MVC, y base de datos en Mysql."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "03/2023 – 05/2023"
+        },
+        {
+            "title": "Programador FullStack",
+            "subtitle": "Restaurant Cevicheria \"Puerto Sol\"",
+            "workType": "Freelance",
+            "workDescription": [
+                "Desarrollo de sistema para el manejo de comandas en cocina y el cobro de pedidos de caja",
+                "Sistema desarrollado completamente en Java mediante MVC,creación de la base de datos hecho con tecnología MYSQL utilizando como IDE Netbeans.",
+                "Soporte del Software en al transcurso del año"
+            ],
+            "dateText": "01/2022 – 03/2022"
         }
     ]
 }
